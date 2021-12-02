@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<odoo>                  
+    <menuitem id="main_menu_hidtcop" name="HIDTCOP" web_icon="hidtcop,static/description/icon.png"/>
+</odoo>

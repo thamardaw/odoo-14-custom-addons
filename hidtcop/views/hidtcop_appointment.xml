@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<odoo>
+    <act_window id="action_hidtcop_appointment" name="Appointments" res_model="hidtcop.appointment" view_mode="tree,form"/>
+    <menuitem id="menu_hidtcop_appointment" action="action_hidtcop_appointment"  parent="main_menu_hidtcop" sequence="1"/>
+</odoo>
+
